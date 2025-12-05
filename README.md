@@ -62,7 +62,8 @@ PlayHero Platform Layer
 ## 🔗 Live Apps
 - WebUX — https://www.webux.ai  
 - PlayHero — https://playhero.ai  
-- SiteHero (Beta) — https://sitehero.app  
+- SiteHero (Beta) — https://sitehero.ai
+- PlayGTM - https://playgtm.com
 
 ---
 
